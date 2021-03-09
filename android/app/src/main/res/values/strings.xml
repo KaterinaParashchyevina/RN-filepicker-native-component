@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">filepicker</string>
+    <string name="button_name">Choose file</string>
+</resources>
