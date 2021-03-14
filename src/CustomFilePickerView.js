@@ -1,8 +1,7 @@
 import React from 'react';
 import {requireNativeComponent} from 'react-native';
 
-
-const FilePickerView = requireNativeComponent('RCTCustomFilePickerView');
+const FilePickerView = requireNativeComponent('RCTMyCustomView');
 
 const CustomFilePickerView = (props) => {
 

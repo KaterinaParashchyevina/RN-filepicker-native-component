@@ -13,7 +13,7 @@ public class CustomFilePickerManager extends SimpleViewManager<CustomFilePickerV
     @NonNull
     @Override
     public String getName() {
-        return "RCTCustomFilePickerView";
+        return "RCTMyCustomView";
     }
 
     @NonNull
